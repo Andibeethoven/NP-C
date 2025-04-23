@@ -29,7 +29,7 @@ This Software License Agreement (the "Agreement") is entered into by and between
    This license is effective until terminated. The Author may terminate this Agreement at any time if you violate its terms. Upon termination, you must immediately cease all use of the software and destroy any copies in your possession.
 
 7. GOVERNING LAW
-   This Agreement shall be governed by and construed in accordance with the laws of [Your Country/State], without regard to its conflict of laws principles.
+   This Agreement shall be governed by and construed in accordance with the laws of Australia Victoria, without regard to its conflict of laws principles.
 
 8. AUTHORIZED USE AND SALE
    Only the Author is authorized to sell or distribute this software. Any unauthorized use, sale, or distribution of the software is strictly prohibited and will be subject to legal action.
