@@ -39,7 +39,7 @@ This Software License Agreement (the "Agreement") is entered into by and between
 
 By using this software, you acknowledge that you have read, understood, and agreed to be bound by the terms of this Agreement.
 
-Signed: Cleopatra VI Travis Johnston
+Signed: Travis Johnston
 Date: 25/02/2025
 """
 
